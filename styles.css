@@ -30,7 +30,7 @@ h4 {
 }
 
 .beigebackground {
-    background-color: beige;
+    background-color: beige !important;
 }
 
 .greenbackground {
